@@ -1,0 +1,25 @@
+{
+  "revision": "1.1",
+  "checks": {
+    "M3_through_1": true,
+    "M3_through_2": true,
+    "M3_through_3": true,
+    "M3_through_4": true,
+    "MX_opening_1": true,
+    "MX_opening_2": true,
+    "MX_opening_3": true,
+    "MX_opening_4": true,
+    "MX_opening_5": true,
+    "MX_opening_6": true,
+    "encoder_top_left_opening": true,
+    "knob_cover_no_collision": true,
+    "knob_base_no_collision": true,
+    "base_cover_no_collision": true,
+    "knob_above_hood": true,
+    "Fusion_STEP_volume_Base": true,
+    "Fusion_STEP_volume_Cover": true
+  },
+  "all_passed": true,
+  "physical_fit_tested": false,
+  "note": "Coordinates checked against documented PCB placements; component envelopes depend on stated kit assumptions."
+}

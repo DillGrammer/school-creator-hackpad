@@ -1,0 +1,22 @@
+{
+  "Fit_coupon.stl": {
+    "triangles": 1040,
+    "boundary_or_nonmanifold_edges": 0,
+    "minimum_z_mm": 0.0
+  },
+  "Knob.stl": {
+    "triangles": 13108,
+    "boundary_or_nonmanifold_edges": 0,
+    "minimum_z_mm": 0.0
+  },
+  "Base.stl": {
+    "triangles": 7116,
+    "boundary_or_nonmanifold_edges": 0,
+    "minimum_z_mm": 0.0
+  },
+  "Cover.stl": {
+    "triangles": 8052,
+    "boundary_or_nonmanifold_edges": 0,
+    "minimum_z_mm": 0.0
+  }
+}

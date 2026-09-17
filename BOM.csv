@@ -1,0 +1,14 @@
+Item,Quantity,Specification,Source,Notes
+Microcontroller,1,Seeed Studio XIAO RP2040,Hackpad kit,Direct solder mounting; not RP2040 Plus
+Switch,6,MX through-hole,Hackpad kit,Soldered; no hot-swap sockets
+Keycap,6,1u DSA,Hackpad kit,Blank white
+Rotary encoder,1,EC11 with push switch,Hackpad kit,Confirm shaft geometry against case
+OLED,1,0.91 inch 128x32 I2C,Hackpad kit,Pin order GND VCC SCL SDA
+OLED header,1,1x4 2.54mm,OLED hardware,Nominal module underside 8.5mm above PCB
+Screw,4,M3x16mm,Hackpad kit,Head diameter <=5.7mm and height <=3mm
+Heat-set insert,4,M3 OD5mm length4mm,Hackpad kit,Case pilot diameter 4.6mm
+PCB,1,86.5x88.5mm 2-layer FR4 1.6mm,PCB fabrication,Gerbers included
+Base print,1,Base.stl,3D printing,No damping
+Cover print,1,Cover.stl,3D printing,Print orientation supplied
+Knob print,1,Knob.stl,3D printing,Optional; nominal 6mm D shaft
+USB cable,1,USB-C data cable,User supplied,Data-capable cable required

@@ -1,0 +1,9 @@
+Architecture/
+Private/
+settings.json
+.venv/
+__pycache__/
+*.pyc
+*.kicad_prl
+*.lck
+.DS_Store

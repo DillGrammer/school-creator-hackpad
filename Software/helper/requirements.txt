@@ -1,0 +1,20 @@
+pyserial>=3.5,<4
+pynput>=1.7,<2
+PyAutoGUI>=0.9.54,<1
+pyperclip>=1.9,<2
+mss>=9,<11
+keyring>=25,<27
+openai>=1.70,<3
+psutil>=6,<8
+pyobjc-framework-Cocoa>=10; sys_platform == 'darwin'
+pyobjc-framework-Quartz>=10; sys_platform == 'darwin'
+pycaw>=20240210; sys_platform == 'win32'
+comtypes>=1.4; sys_platform == 'win32'
+pywin32>=306; sys_platform == 'win32'
+winrt-Windows.Media.Control; sys_platform == 'win32'
+winrt-Windows.Foundation; sys_platform == 'win32'
+winrt-Windows.Foundation.Collections; sys_platform == 'win32'
+playwright>=1.49,<2
+
+pyobjc-framework-ApplicationServices; sys_platform == "darwin"
+av>=16,<18

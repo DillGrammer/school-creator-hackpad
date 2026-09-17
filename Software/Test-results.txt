@@ -1,0 +1,41 @@
+test_exact_game_shortcut_not_uninstaller (test_app_discovery.AppDiscoveryTests.test_exact_game_shortcut_not_uninstaller) ... ok
+test_missing_app_requires_setup (test_app_discovery.AppDiscoveryTests.test_missing_app_requires_setup) ... ok
+test_user_shortcut_precedes_shared (test_app_discovery.AppDiscoveryTests.test_user_shortcut_precedes_shared) ... ok
+test_gaming_no_grid (test_display.DisplayTests.test_gaming_no_grid) ... ok
+test_grid_dividers (test_display.DisplayTests.test_grid_dividers) ... ok
+test_non_ascii_result (test_display.DisplayTests.test_non_ascii_result) ... ok
+test_back_consumes_previous_track (test_engine.Controls.test_back_consumes_previous_track) ... ok
+test_back_no_export (test_engine.Controls.test_back_no_export) ... ok
+test_back_release_reverse (test_engine.Controls.test_back_release_reverse) ... ok
+test_copy_no_overwrite (test_engine.Controls.test_copy_no_overwrite) ... ok
+test_course_direct (test_engine.Controls.test_course_direct) ... ok
+test_gaming_click_enters_volume (test_engine.Controls.test_gaming_click_enters_volume) ... ok
+test_grid_widths (test_engine.Controls.test_grid_widths) ... ok
+test_invalid_url (test_engine.Controls.test_invalid_url) ... ok
+test_key6_normal_release (test_engine.Controls.test_key6_normal_release) ... ok
+test_nested_rotation_no_category_change (test_engine.Controls.test_nested_rotation_no_category_change) ... ok
+test_os_switch_clears_old_navigation (test_engine.Controls.test_os_switch_clears_old_navigation) ... ok
+test_redo_without_undo (test_engine.Controls.test_redo_without_undo) ... ok
+test_root_wrap (test_engine.Controls.test_root_wrap) ... ok
+test_small_selector (test_engine.Controls.test_small_selector) ... ok
+test_volume_modifier_consumes_tap (test_engine.Controls.test_volume_modifier_consumes_tap) ... ok
+test_windows_gaming (test_engine.Controls.test_windows_gaming) ... ok
+test_empty_export_rejected (test_photos_import.PhotosImportTests.test_empty_export_rejected) ... ok
+test_live_photo_does_not_guess_between_still_and_video (test_photos_import.PhotosImportTests.test_live_photo_does_not_guess_between_still_and_video) ... ok
+test_menu_keeps_open_and_import_separate (test_photos_import.PhotosImportTests.test_menu_keeps_open_and_import_separate) ... ok
+test_original_with_metadata_sidecar (test_photos_import.PhotosImportTests.test_original_with_metadata_sidecar) ... ok
+test_cancel_before_upload (test_video_check.VideoChecks.test_cancel_before_upload) ... ok
+test_complete_portrait (test_video_check.VideoChecks.test_complete_portrait) ... ok
+test_landscape_rejected (test_video_check.VideoChecks.test_landscape_rejected) ... ok
+test_partial_file_rejected (test_video_check.VideoChecks.test_partial_file_rejected) ... ok
+test_wrong_fps_rejected (test_video_check.VideoChecks.test_wrong_fps_rejected) ... ok
+test_cancel (test_word_copy.WordCopyTests.test_cancel) ... ok
+test_does_not_take_existing_download (test_word_copy.WordCopyTests.test_does_not_take_existing_download) ... ok
+test_filename_match (test_word_copy.WordCopyTests.test_filename_match) ... ok
+test_new_complete_copy (test_word_copy.WordCopyTests.test_new_complete_copy) ... ok
+test_reject_partial_and_unrelated_zip (test_word_copy.WordCopyTests.test_reject_partial_and_unrelated_zip) ... ok
+
+----------------------------------------------------------------------
+Ran 36 tests in 0.726s
+
+OK

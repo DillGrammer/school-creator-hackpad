@@ -1,0 +1,60 @@
+{
+  "Base": {
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 37211.94121590478,
+    "size_mm": [
+      92.1,
+      94.1,
+      19.6
+    ]
+  },
+  "Cover": {
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 15854.718785224422,
+    "size_mm": [
+      92.1,
+      94.1,
+      14.0
+    ]
+  },
+  "Knob": {
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 3174.0209674168955,
+    "size_mm": [
+      20.0,
+      20.0,
+      11.0
+    ]
+  },
+  "Fit_coupon": {
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 1301.1692679513937,
+    "size_mm": [
+      40.0,
+      22.0,
+      6.0
+    ]
+  },
+  "interference_mm3": {},
+  "errors": [],
+  "dimensions": {
+    "outer_width": 92.1,
+    "outer_depth": 94.1,
+    "control_height": 30.1,
+    "front_height": 21.1,
+    "pcb_bottom": 14.5,
+    "screw_seat": 18.1
+  },
+  "assumptions": [
+    "38x12 OLED with 8.5 mm stand-off",
+    "20 mm EC11 shaft measured above PCB",
+    "6 mm D shaft, flat at 2.0 mm from centre",
+    "M3x16 socket head <=5.7 mm diameter, <=3 mm high",
+    "M3 insert OD5 x L4, 4.6 mm heat-set pilot",
+    "Header XIAO mounting not supported; direct solder mount"
+  ]
+}

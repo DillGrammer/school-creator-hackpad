@@ -1,0 +1,1 @@
+{"autodeskProduct":"Fusion360","type":"script","author":"Hackpad project","description":{"":"Build the matched case and export its native Fusion archive."},"version":"1.0.0","runOnStartup":false,"supportedOS":"windows|mac"}

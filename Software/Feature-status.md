@@ -17,6 +17,6 @@ A function having source code is not equivalent to being validated on the user's
 | Upload preparation | Optional file-input attachment; manual fallback; no publish/schedule code | Real video decoding now rejects incomplete files and non-1080×1920/30 fps exports; both real upload editors still require validation |
 | Gaming | Launch targets, exact-name installed Windows shortcut discovery, Spotify-specific transport, per-app volume, foreground icon, selected headset capture-endpoint mute | Windows and actual headset tests |
 | Case | Revision 1.1 STEP/STL and native Fusion F3D; corrected handedness and knob position; solid and mesh checks | Physical fit check; actual kit dimensions |
-| Submission | Sanitized packages; Stardance design project 63122 created with factual description and AI declaration | Public repository, authentic required project evidence, advanced integration work; funding submission remains disabled |
+| Submission | Public DillGrammer/school-creator-hackpad repository; Stardance design project 63122 with source link, CAD render, factual description and AI declaration | Authentic recorded work/devlog and advanced integration work; funding submission remains disabled |
 
 Do not submit this as a fully tested or physically assembled product. Do not invent hours, devlogs, photographs, build evidence or eligibility claims. Generated mockups are not photos of a real build.

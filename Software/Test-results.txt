@@ -1,6 +1,11 @@
 test_exact_game_shortcut_not_uninstaller (test_app_discovery.AppDiscoveryTests.test_exact_game_shortcut_not_uninstaller) ... ok
 test_missing_app_requires_setup (test_app_discovery.AppDiscoveryTests.test_missing_app_requires_setup) ... ok
 test_user_shortcut_precedes_shared (test_app_discovery.AppDiscoveryTests.test_user_shortcut_precedes_shared) ... ok
+test_closed_context_can_be_reopened (test_browser_fallback.BrowserFallbackTests.test_closed_context_can_be_reopened) ... ok
+test_closed_page_during_chat_becomes_manual_fallback (test_browser_fallback.BrowserFallbackTests.test_closed_page_during_chat_becomes_manual_fallback) ... ok
+test_existing_draft_never_overwritten (test_browser_fallback.BrowserFallbackTests.test_existing_draft_never_overwritten) ... ok
+test_navigation_timeout_becomes_manual_fallback (test_browser_fallback.BrowserFallbackTests.test_navigation_timeout_becomes_manual_fallback) ... ok
+test_old_close_event_cannot_clear_new_context (test_browser_fallback.BrowserFallbackTests.test_old_close_event_cannot_clear_new_context) ... ok
 test_gaming_no_grid (test_display.DisplayTests.test_gaming_no_grid) ... ok
 test_grid_dividers (test_display.DisplayTests.test_grid_dividers) ... ok
 test_non_ascii_result (test_display.DisplayTests.test_non_ascii_result) ... ok
@@ -36,6 +41,6 @@ test_new_complete_copy (test_word_copy.WordCopyTests.test_new_complete_copy) ...
 test_reject_partial_and_unrelated_zip (test_word_copy.WordCopyTests.test_reject_partial_and_unrelated_zip) ... ok
 
 ----------------------------------------------------------------------
-Ran 36 tests in 0.726s
+Ran 41 tests in 0.766s
 
 OK
